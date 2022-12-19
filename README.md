@@ -1,0 +1,1 @@
+Project for Odin Project. To learn web development skills.
